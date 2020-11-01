@@ -1,0 +1,39 @@
+# config.yml
+
+default:
+# Required Packages: 
+  visualizationPackages: 
+    - shiny
+    - shinydashboard
+    - shinyWidgets
+    - shinyBS
+    - leaflet
+    - leaflet.extras
+    - plotly
+    - ggplot2
+    - htmlwidgets
+    - rgdal
+    - ggpubr
+  analysisPackages:
+    - dplyr
+    - tidyr
+    - stringr
+    - lubridate
+  dataPackages:
+    - data.table
+    - Rcpp
+    - parallel
+    - devtools
+    - testthat
+    - car
+    - multcomp
+    - vcd
+    - glmnet
+    - survival
+    - caret
+  lookups:
+    Governors: "data/Governors_2020.csv"
+    Counties: "data/TEST_2016_ELECTION_FULL.csv"
+  loadableDirs:
+    - "functions"
+    - "modules"

@@ -1,0 +1,51 @@
+State_name,State_ID,Governor,Party,Gender
+Alabama,AL ,Kay Ivey,Republican,F
+Alaska,AK,Mike Dunleavy,Republican,M
+Arizona,AR,Doug Ducey,Republican,M
+Arkansas,AS,Asa Hutchinson,Republican,M
+California,CA,Gavin Newsom,Democrat,M
+Colorado,CO,Jared Polis,Democrat,M
+Connecticut,CT,Ned Lamont,Democrat,M
+Delaware,DE,John Carney,Democrat,M
+Florida,FL,Ron DeSantis,Republican,M
+Georgia,GA,Brian Kemp,Republican,M
+Hawaii,HI,David Ige,Democrat,M
+Idaho,ID,Brad Little,Republican,M
+Illinois,IL,J. B. Pritzker,Democrat,M
+Indiana,IN,Eric Holcomb,Republican,M
+Iowa,IA,Kim Reynolds,Republican,F
+Kansas,KS,Laura Kelly,Democrat,F
+Kentucky,KY,Andy Beshear,Democrat,M
+Louisiana,LA,John Bel Edwards,Democrat,M
+Maine,ME,Janet Mills,Democrat,F
+Maryland,MD,Larry Hogan,Republican,M
+Massachusetts,MA,Charlie Baker,Republican,M
+Michigan,MI,Gretchen Whitmer,Democrat,F
+Minnesota,MN,Tim Walz,Democrat,M
+Mississippi,MS,Tate Reeves,Republican,M
+Missouri,MO,Mike Parson,Republican,M
+Montana,MN,Steve Bullock,Democrat,M
+Nebraska,NE,Pete Ricketts,Republican,M
+Nevada,NV,Steve Sisolak,Democrat,M
+New Hampshire,NH,Chris Sununu,Republican,M
+New Jersey,NJ,Phil Murphy,Democrat,M
+New Mexico,NM,Michelle Lujan Grisham,Democrat,F
+New York,NY,Andrew Cuomo,Democrat,M
+North Carolina,NC,Roy Cooper,Democrat,M
+North Dakota,ND,Doug Burgum,Republican,M
+Ohio,OH,Mike DeWine,Republican,M
+Oklahoma,OK,Kevin Stitt,Republican,M
+Oregon,OR,Kate Brown,Democrat,F
+Pennsylvania,PA,Tom Wolf,Democrat,M
+Rhode Island,RI,Gina Raimondo,Democrat,F
+South Carolina,SC,Henry McMaster,Republican,M
+South Dakota,SD,Kristi Noem,Republican,F
+Tennessee,TN,Bill Lee,Republican,M
+Texas,TX,Greg Abbott,Republican,M
+Utah,UT,Gary Herbert,Republican,M
+Vermont,VT,Phil Scott,Republican,M
+Virginia,VA,Ralph Northam,Democrat,M
+Washington,WA,Jay Inslee,Democrat,M
+West Virginia,WV,Jim Justice,Republican,M
+Wisconsin,WI,Tony Evers,Democrat,M
+Wyoming,WY,Mark Gordon,Republican,M
